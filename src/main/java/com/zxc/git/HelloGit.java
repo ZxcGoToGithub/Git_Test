@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("文件同时修改测试！！！");
         System.out.println("测试冲突合并！！！master的修改！");
         System.out.println("hot-fix的冲突合并！！！");
+        System.out.println("github更新内容，测试gitee强制更新！！！");
     }
 }
